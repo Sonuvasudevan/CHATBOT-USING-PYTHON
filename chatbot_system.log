@@ -1,0 +1,92 @@
+2025-08-26 13:28:29,423 - INFO - Chatbot logging system initialized
+2025-08-26 13:28:29,427 - INFO - Conversation logged - Intent: greeting, Confidence: 1.0
+2025-08-26 13:28:29,440 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-26 13:28:29,445 - INFO - Conversation logged - Intent: unknown, Confidence: 0.0
+2025-08-26 13:28:29,458 - INFO - Conversation logged - Intent: goodbye, Confidence: 1.0
+2025-08-26 13:34:35,139 - INFO - Chatbot logging system initialized
+2025-08-26 13:34:35,567 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.133:5000
+2025-08-26 13:34:35,569 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-26 13:34:35,597 - INFO -  * Restarting with stat
+2025-08-26 13:34:38,820 - INFO - Chatbot logging system initialized
+2025-08-26 13:34:38,938 - WARNING -  * Debugger is active!
+2025-08-26 13:34:38,983 - INFO -  * Debugger PIN: 347-936-237
+2025-08-26 13:35:24,190 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:24] "GET /?id=425cf283-2204-4770-8f83-a62777e1d8b6&vscodeBrowserReqId=1756195523766 HTTP/1.1" 200 -
+2025-08-26 13:35:24,201 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:24] "GET /?id=425cf283-2204-4770-8f83-a62777e1d8b6&vscodeBrowserReqId=1756195524006 HTTP/1.1" 200 -
+2025-08-26 13:35:24,359 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:24] "GET /?id=425cf283-2204-4770-8f83-a62777e1d8b6&vscodeBrowserReqId=1756195524239 HTTP/1.1" 200 -
+2025-08-26 13:35:25,635 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:25] "GET /?id=425cf283-2204-4770-8f83-a62777e1d8b6&vscodeBrowserReqId=1756195525279 HTTP/1.1" 200 -
+2025-08-26 13:35:43,103 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:43] "GET / HTTP/1.1" 200 -
+2025-08-26 13:35:43,826 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-26 13:35:48,952 - INFO - Conversation logged - Intent: greeting, Confidence: 1.0
+2025-08-26 13:35:48,954 - INFO - 127.0.0.1 - - [26/Aug/2025 13:35:48] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:36:27,991 - INFO - Conversation logged - Intent: greeting, Confidence: 1.0
+2025-08-26 13:36:27,993 - INFO - 127.0.0.1 - - [26/Aug/2025 13:36:27] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:36:37,779 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-26 13:36:37,782 - INFO - 127.0.0.1 - - [26/Aug/2025 13:36:37] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:36:47,372 - INFO - Conversation logged - Intent: unknown, Confidence: 0.0
+2025-08-26 13:36:47,374 - INFO - 127.0.0.1 - - [26/Aug/2025 13:36:47] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:36:53,717 - INFO - Conversation logged - Intent: help, Confidence: 1.0
+2025-08-26 13:36:53,719 - INFO - 127.0.0.1 - - [26/Aug/2025 13:36:53] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:37:09,223 - INFO - Conversation logged - Intent: unknown, Confidence: 0.0
+2025-08-26 13:37:09,224 - INFO - 127.0.0.1 - - [26/Aug/2025 13:37:09] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:37:13,852 - INFO - Conversation logged - Intent: help, Confidence: 1.0
+2025-08-26 13:37:13,856 - INFO - 127.0.0.1 - - [26/Aug/2025 13:37:13] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:37:19,665 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-26 13:37:19,666 - INFO - 127.0.0.1 - - [26/Aug/2025 13:37:19] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:37:24,590 - INFO - 127.0.0.1 - - [26/Aug/2025 13:37:24] "POST /chat HTTP/1.1" 200 -
+2025-08-26 13:37:32,128 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-26 13:37:32,133 - INFO - 127.0.0.1 - - [26/Aug/2025 13:37:32] "POST /chat HTTP/1.1" 200 -
+2025-08-26 14:14:29,408 - INFO - Chatbot logging system initialized
+2025-08-26 14:14:29,534 - INFO - Loaded 9 previous conversations
+2025-08-26 14:14:29,703 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.133:5000
+2025-08-26 14:14:29,705 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-26 14:14:29,724 - INFO -  * Restarting with stat
+2025-08-26 14:14:30,790 - INFO - Chatbot logging system initialized
+2025-08-26 14:14:30,797 - INFO - Loaded 9 previous conversations
+2025-08-26 14:14:30,918 - WARNING -  * Debugger is active!
+2025-08-26 14:14:30,950 - INFO -  * Debugger PIN: 347-936-237
+2025-08-26 14:14:43,560 - INFO - 127.0.0.1 - - [26/Aug/2025 14:14:43] "GET / HTTP/1.1" 200 -
+2025-08-26 14:17:28,889 - INFO -  * Detected change in 'C:\\Users\\Dell\\Desktop\\New Folder\\chatbot_core.py', reloading
+2025-08-26 14:17:29,467 - INFO -  * Restarting with stat
+2025-08-26 14:17:31,688 - INFO - Chatbot logging system initialized
+2025-08-26 14:17:31,743 - INFO - Loaded 9 previous conversations
+2025-08-26 14:17:32,028 - WARNING -  * Debugger is active!
+2025-08-26 14:17:32,074 - INFO -  * Debugger PIN: 347-936-237
+2025-08-26 14:18:55,750 - INFO -  * Detected change in 'C:\\Users\\Dell\\Desktop\\New Folder\\chatbot_core.py', reloading
+2025-08-26 14:18:56,194 - INFO -  * Restarting with stat
+2025-08-26 14:18:59,537 - INFO - Chatbot logging system initialized
+2025-08-26 14:18:59,538 - INFO - Loaded 9 previous conversations
+2025-08-26 14:18:59,610 - WARNING -  * Debugger is active!
+2025-08-26 14:18:59,658 - INFO -  * Debugger PIN: 347-936-237
+2025-08-26 14:22:41,424 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-26 14:22:41,429 - INFO - 127.0.0.1 - - [26/Aug/2025 14:22:41] "POST /chat HTTP/1.1" 200 -
+2025-08-26 14:22:43,849 - INFO - Conversation logged - Intent: help, Confidence: 1.0
+2025-08-26 14:22:43,851 - INFO - 127.0.0.1 - - [26/Aug/2025 14:22:43] "POST /chat HTTP/1.1" 200 -
+2025-08-26 14:22:46,330 - INFO - Conversation logged - Intent: greeting, Confidence: 1.0
+2025-08-26 14:22:46,333 - INFO - 127.0.0.1 - - [26/Aug/2025 14:22:46] "POST /chat HTTP/1.1" 200 -
+2025-08-26 14:24:33,497 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-26 14:24:33,498 - INFO - 127.0.0.1 - - [26/Aug/2025 14:24:33] "POST /chat HTTP/1.1" 200 -
+2025-08-26 14:31:26,890 - INFO -  * Detected change in 'C:\\Users\\Dell\\Desktop\\New Folder\\chatbot_core.py', reloading
+2025-08-26 14:31:27,325 - INFO -  * Restarting with stat
+2025-08-26 14:31:28,571 - INFO - Chatbot logging system initialized
+2025-08-26 14:31:28,594 - INFO - Loaded 13 previous conversations
+2025-08-26 14:31:28,636 - WARNING -  * Debugger is active!
+2025-08-26 14:31:28,651 - INFO -  * Debugger PIN: 347-936-237
+2025-08-28 12:18:18,091 - INFO - Conversation logged - Intent: joke, Confidence: 1.0
+2025-08-28 12:18:18,113 - INFO - 127.0.0.1 - - [28/Aug/2025 12:18:18] "POST /chat HTTP/1.1" 200 -
+2025-08-28 12:18:24,866 - INFO - Conversation logged - Intent: greeting, Confidence: 1.0
+2025-08-28 12:18:24,871 - INFO - 127.0.0.1 - - [28/Aug/2025 12:18:24] "POST /chat HTTP/1.1" 200 -
+2025-08-28 12:18:27,372 - INFO - Conversation logged - Intent: unknown, Confidence: 0.0
+2025-08-28 12:18:27,373 - INFO - 127.0.0.1 - - [28/Aug/2025 12:18:27] "POST /chat HTTP/1.1" 200 -
+2025-08-28 12:18:31,024 - INFO - Conversation logged - Intent: help, Confidence: 1.0
+2025-08-28 12:18:31,026 - INFO - 127.0.0.1 - - [28/Aug/2025 12:18:31] "POST /chat HTTP/1.1" 200 -
+2025-08-28 15:40:46,721 - INFO - 127.0.0.1 - - [28/Aug/2025 15:40:46] "GET / HTTP/1.1" 200 -
+2025-08-28 15:40:47,567 - INFO - 127.0.0.1 - - [28/Aug/2025 15:40:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-28 16:07:57,514 - INFO - 127.0.0.1 - - [28/Aug/2025 16:07:57] "GET / HTTP/1.1" 200 -
+2025-08-28 16:20:25,908 - INFO -  * Detected change in 'C:\\Users\\Dell\\Desktop\\New Folder\\chatbot_core.py', reloading
+2025-08-28 16:20:26,632 - INFO -  * Restarting with stat

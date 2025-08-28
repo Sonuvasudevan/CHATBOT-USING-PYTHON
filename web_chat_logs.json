@@ -1,0 +1,349 @@
+[
+  {
+    "timestamp": "2025-08-26T13:35:48.950405",
+    "user_input": "Hi",
+    "bot_response": "Greetings! How may I assist you?",
+    "intent": "greeting",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T13:36:27.990122",
+    "user_input": "hello",
+    "bot_response": "Greetings! How may I assist you?",
+    "intent": "greeting",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T13:36:37.776162",
+    "user_input": "tell me a joke",
+    "bot_response": "Why do programmers prefer dark mode? Because light attracts bugs! \ud83d\udc1b",
+    "intent": "joke",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T13:36:47.370916",
+    "user_input": "what is AI?",
+    "bot_response": "I'm not sure how to respond to that. Type 'help' to see what I can do!",
+    "intent": "unknown",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-08-26T13:36:53.716045",
+    "user_input": "help",
+    "bot_response": "I can help you with:\n\u2022 General conversation and greetings\n\u2022 Answer questions about AI\n\u2022 Tell jokes\n\u2022 Provide information on various topics\n\u2022 Type 'help' anytime for this menu",
+    "intent": "help",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T13:37:09.221820",
+    "user_input": "tell me what is NLP",
+    "bot_response": "I'm not sure how to respond to that. Type 'help' to see what I can do!",
+    "intent": "unknown",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-08-26T13:37:13.850542",
+    "user_input": "help",
+    "bot_response": "I can help you with:\n\u2022 General conversation and greetings\n\u2022 Answer questions about AI\n\u2022 Tell jokes\n\u2022 Provide information on various topics\n\u2022 Type 'help' anytime for this menu",
+    "intent": "help",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T13:37:19.662384",
+    "user_input": "tell me a joke",
+    "bot_response": "Why don't scientists trust atoms? Because they make up everything! \ud83d\ude04",
+    "intent": "joke",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T13:37:32.126859",
+    "user_input": "tell me a joke",
+    "bot_response": "Why do programmers prefer dark mode? Because light attracts bugs! \ud83d\udc1b",
+    "intent": "joke",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T14:22:41.421352",
+    "user_input": "tell me a joke",
+    "bot_response": "I told my computer a joke about UDP... but it didn't get it. \ud83d\ude02",
+    "intent": "joke",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T14:22:43.847663",
+    "user_input": "help",
+    "bot_response": "I can help you with:\n\u2022 General conversation and greetings\n\u2022 Answer questions about AI\n\u2022 Tell jokes\n\u2022 Provide information on various topics\n\u2022 Type 'help' anytime for this menu",
+    "intent": "help",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T14:22:46.328481",
+    "user_input": "hello",
+    "bot_response": "Hey! I'm here to assist you.",
+    "intent": "greeting",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-26T14:24:33.496180",
+    "user_input": "tell me a joke",
+    "bot_response": "How many programmers does it take to change a light bulb? None, that's a hardware problem! \ud83d\udca1",
+    "intent": "joke",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-28T12:18:18.076411",
+    "user_input": "tell me a joke",
+    "bot_response": "Why do programmers prefer dark mode? Because light attracts bugs! \ud83d\udc1b",
+    "intent": "joke",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-28T12:18:24.856577",
+    "user_input": "hello",
+    "bot_response": "Hey! I'm here to assist you.",
+    "intent": "greeting",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-28T12:18:27.370554",
+    "user_input": "what is AI?",
+    "bot_response": "I'm not sure how to respond to that. Type 'help' to see what I can do!",
+    "intent": "unknown",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-08-28T12:18:31.019653",
+    "user_input": "help",
+    "bot_response": "I can help you with:\n\u2022 General conversation and greetings\n\u2022 Answer questions about AI\n\u2022 Tell jokes\n\u2022 Provide information on various topics\n\u2022 Type 'help' anytime for this menu",
+    "intent": "help",
+    "confidence": 1.0
+  },
+  {
+    "user": "help",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "sonu",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "tell me a joke",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "tell me a joke",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "tell me a joke",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "what is ai?",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "analytics",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm sorry, I didn't understand that."
+  },
+  {
+    "user": "what is ai?",
+    "bot": "Artificial Intelligence (AI) is the simulation of human intelligence by machines. It includes capabilities like learning, reasoning, and self-correction."
+  },
+  {
+    "user": "analytics",
+    "bot": "To view analytics, please visit the analytics page at /analytics"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! How can I help you today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hi there! What can I do for you?"
+  },
+  {
+    "user": "bye",
+    "bot": "Goodbye! Have a great day!"
+  },
+  {
+    "user": "how are you?",
+    "bot": "I'm doing great, thank you for asking! How can I assist you?"
+  },
+  {
+    "user": "analytics",
+    "bot": "To view analytics, please visit the analytics page at /analytics"
+  },
+  {
+    "user": "what is ai?",
+    "bot": "Artificial Intelligence (AI) is the simulation of human intelligence by machines. It includes capabilities like learning, reasoning, and self-correction."
+  },
+  {
+    "user": "tell me a joke",
+    "bot": "Why don't programmers like nature? It has too many bugs! \ud83d\ude04"
+  },
+  {
+    "user": "what is ai?",
+    "bot": "Artificial Intelligence (AI) is the simulation of human intelligence by machines. It includes capabilities like learning, reasoning, and self-correction."
+  }
+]
